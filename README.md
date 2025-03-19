@@ -6,7 +6,7 @@
 
 ## Instllation and running the notebooks
 - Clone repository https://github.com/monu301981/Multi-Jupyter-Notebooks.git
-- cd Multi-Jupyter-Notebooks.
+- Get into folder using command prompt (CMD) in admin mode > cd Multi-Jupyter-Notebooks.
 - Manually edit the default.config file for workspace=C:\[path]\Multi-Jupyter-Notebooks.
 - Open Command prompt (CMD) in admin mode and navigate to C:\[path]\Multi-Jupyter-Notebooks folder.
 - Run following Commands in command prompt, for launching the Notebooks for different languages for the first time,
@@ -25,6 +25,7 @@
 - All the notebooks saved in folder /work which appears inside each notebook instance will be saved in /notebooks folder on host.
 - Only exception is Go notebook instance for which there will be no /work folder.
 - All the notebook instances can be run paralelly as they are launched on different ports (mentioned above).
+- Use seperate command prompts (CMD) instances in admin mode to launch notebooks applications for different languages.
   
 ## Upcoming features
 - Version for Node JS
