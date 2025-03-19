@@ -7,8 +7,8 @@
 ## Instllation and running the notebooks
 - Clone repository https://github.com/monu301981/Multi-Jupyter-Notebooks.git
   - `git clone https://github.com/monu301981/Multi-Jupyter-Notebooks.git`
-- Get into the folder using command prompt (CMD) in admin mode > `cd Multi-Jupyter-Notebooks`.
-- Manually edit the default.config file for workspace, `workspace=C:\[path]\Multi-Jupyter-Notebooks`.
+- Open the folder `cd Multi-Jupyter-Notebooks` manually.
+- Edit the default.config file using an editor for the value workspace, `workspace=C:\[path]\Multi-Jupyter-Notebooks`.
 - Open Command prompt (CMD) in admin mode and navigate to `C:\[path]\Multi-Jupyter-Notebooks` folder.
 - Run following Commands in command prompt, for launching the Notebooks for different languages for the first time,
   - For Python > `notebook python` (runs on port 10000)
