@@ -20,6 +20,19 @@
   - For Go > `notebook-open go` (runs on port 10001)
   - For Java > `notebook-open java` (runs on port 10002)
   - For PHP > `notebook-open php` (runs on port 10003)
+- Once the notebook servers start, following message will be displayed as part of the response which looks like below
+  - `[C 2025-03-19 15:08:11.759 ServerApp]
+    To access the server, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/jpserver-7-open.html
+    Or copy and paste one of these URLs:
+        http://7b58ed628df8:8888/lab?token=6b6e0889e983159524a26ddb66716a4e589d280893da4025
+        http://127.0.0.1:8888/lab?token=6b6e0889e983159524a26ddb66716a4e589d280893da4025`
+- In the above response the token values has to be copied to login to the notebook application
+- Following are the URLs for notebook applications, and token has to be entered upon notification.
+  - For Python - `http://localhost:10000/`
+  - For Go - `http://localhost:10001/`
+  - For Java - `http://localhost:10002/`
+  - For PHP - `http://localhost:10003/`
 
 ## Things to note
 - All the files will be saved by default to `/notebooks` folder in the host, as it is mounted in all the dockers by default.
