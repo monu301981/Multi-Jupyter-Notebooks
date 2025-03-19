@@ -1,6 +1,6 @@
 # Multi-Jupyter-Notebooks
 
-## Pre-requisites:
+## Pre-requisites for running the notebooks:
 - Docker desktop should be installed. (Refer: https://docs.docker.com/desktop/setup/install/windows-install/)
 - Docker desktop should be running.
 
