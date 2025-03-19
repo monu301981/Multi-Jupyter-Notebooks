@@ -26,7 +26,7 @@
 - All the notebooks saved in folder `/work` in docker, which appears inside each notebook instance will be saved in /notebooks folder on host.
 - Only exception is Go notebook instance for which there will be no `/work` folder.
 - All the notebook instances can be run paralelly as they are launched on different ports (mentioned above).
-- Use seperate command prompts (CMD) instances in admin mode to launch notebooks applications for different languages.
+- Use seperate command prompts (CMD) instances in admin mode to launch notebook applications for different languages.
   
 ## Upcoming features
 - Version for Node JS
