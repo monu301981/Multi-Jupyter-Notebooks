@@ -9,7 +9,7 @@
 - cd Multi-Jupyter-Notebooks.
 - Manually edit the default.config file for workspace=C:\[path]\Multi-Jupyter-Notebooks.
 - Open Command prompt (CMD) in admin mode and navigate to C:\[path]\Multi-Jupyter-Notebooks folder.
-- Run following Commands for launching the Notebooks for different languages,
+- Run following Commands in command prompt, for launching the Notebooks for different languages,
   - For Python > notebook python
   - For Go > notebook go
   - For Java > notebook java
