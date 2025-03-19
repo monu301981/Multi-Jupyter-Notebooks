@@ -27,8 +27,8 @@
     Or copy and paste one of these URLs:
         http://7b58ed628df8:8888/lab?token=6b6e0889e983159524a26ddb66716a4e589d280893da4025
         http://127.0.0.1:8888/lab?token=6b6e0889e983159524a26ddb66716a4e589d280893da4025`
-- In the above response the token values has to be copied to login to the notebook application
-- Following are the URLs for notebook applications, and token has to be entered upon notification.
+- In the above response the token values has to be copied to login to the notebook application.
+- Following will be the URLs for notebook applications, and token has to be entered upon notification.
   - For Python - `http://localhost:10000/`
   - For Go - `http://localhost:10001/`
   - For Java - `http://localhost:10002/`
