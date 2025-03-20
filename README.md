@@ -46,3 +46,10 @@
 - Version for Node JS
 - Linux version
 - Dynamic folder feature
+
+## Credits:
+Thanks to all the contributers of the following providers.
+	- Janpfeifer: https://github.com/janpfeifer/gonb
+	- Jbindinga: https://github.com/jbindinga/java-notebook
+	- Benramsey: https://github.com/ramsey/jupyter-php-docker
+	- Jupyter: https://hub.docker.com/r/jupyter/minimal-notebook
