@@ -48,7 +48,7 @@
 - Dynamic folder feature
 
 ## Credits:
-Thanks to all the contributers of the following providers.
+Thanks to all the contributers of the following providers. This repository is a small effort from me to simplify the usage of Jupyter notebooks.
  - Janpfeifer: https://github.com/janpfeifer/gonb
  - Jbindinga: https://github.com/jbindinga/java-notebook
  - Benramsey: https://github.com/ramsey/jupyter-php-docker
