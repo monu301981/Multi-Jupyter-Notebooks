@@ -59,3 +59,4 @@ Thanks to all the contributers of the following providers. This repository is a 
  - Jbindinga: https://github.com/jbindinga/java-notebook
  - Benramsey: https://github.com/ramsey/jupyter-php-docker
  - Jupyter: https://hub.docker.com/r/jupyter/minimal-notebook
+ - Jupyter: https://hub.docker.com/r/jupyter/base-notebook
