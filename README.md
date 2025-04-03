@@ -17,6 +17,7 @@
   - For PHP > `notebook php` (runs on port 10003)
   - For Typescript > `notebook typescript` (runs on port 10004)
   - For R > `notebook r` (runs on port 10005)
+  - For CPP > `notebook cpp` (runs on port 10005)
 - Run following Commands in command prompt, for launching the Notebooks for different languages for next time,
   - For Python > `notebook-open python` (runs on port 10000)
   - For Go > `notebook-open go` (runs on port 10001)
@@ -24,6 +25,7 @@
   - For PHP > `notebook-open php` (runs on port 10003)
   - For Typescript > `notebook-open typescript` (runs on port 10004)
   - For R > `notebook-open r` (runs on port 10005)
+  - For C++ > `notebook-open cpp` (runs on port 10005)
 - Once the notebook servers start, following message will be displayed as part of the response which looks like below
   - `[C 2025-03-19 15:08:11.759 ServerApp]
     To access the server, open this file in a browser:
@@ -39,6 +41,7 @@
   - For PHP - `http://localhost:10003/`
   - For Typescript - `http://localhost:10004/`
   - For R - `http://localhost:10005/`
+  - For C++ - `http://localhost:10006/`
 
 ## Things to note
 - All the files will be saved by default to `/notebooks` folder in the host, as it is mounted in all the dockers by default.
@@ -58,5 +61,6 @@ Thanks to all the contributers of the following providers. This repository is a 
  - Janpfeifer: https://github.com/janpfeifer/gonb
  - Jbindinga: https://github.com/jbindinga/java-notebook
  - Benramsey: https://github.com/ramsey/jupyter-php-docker
+ - Jupyter Xeus: https://github.com/jupyter-xeus
  - Jupyter: https://hub.docker.com/r/jupyter/minimal-notebook
  - Jupyter: https://hub.docker.com/r/jupyter/base-notebook
