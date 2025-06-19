@@ -40,7 +40,7 @@
 - Clone repository https://github.com/monu301981/Multi-Jupyter-Notebooks.git
   - `git clone https://github.com/monu301981/Multi-Jupyter-Notebooks.git`
 - Get into the folder using Terminal in admin mode > `cd Multi-Jupyter-Notebooks`.
-- Manually edit the default.config file for workspace, `workspace=C:\[path]\Multi-Jupyter-Notebooks`.
+- Manually edit the default.config file for workspace, `workspace=/path]/Multi-Jupyter-Notebooks`.
 - Open Terminal in admin mode and navigate to `[path]/Multi-Jupyter-Notebooks` folder.
 - Run following Commands in Terminal, for launching the Notebooks for different languages for the first time,
   - For Python > `./notebook.sh python` (runs on port 10000)
